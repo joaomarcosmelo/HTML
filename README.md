@@ -1,18 +1,2 @@
 # HTML
 .html
-C:\Users\usuario\source\repos\HTMLPage2.html
-
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Pegando data e hora com javascript</title>
-</head>
-<body>
-    <h2>Pegando a data e hora com JavaScript</h2>
-    <button type="button"
-            onclick="document.getElementById('aqui').innerHTML = Date()">
-        Clique aqui para ver que horas são :D
-    </button>
-    <p id="aqui"></p>
-</body>
-</html>
